@@ -85,4 +85,4 @@ You will be given a url for your app.
 
 ## Others
 
-You may type gunicorn --help to know more about its other options.
+You may type `gunicorn --help` to know more about its other options.
