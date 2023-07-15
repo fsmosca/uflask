@@ -71,7 +71,7 @@ gcloud app create
 ### 11. Deploy the app
 
 ```
-gcloud app deploy
+gcloud app deploy --appyaml=app.yaml
 ```
 
 ### 12. Browse the app
