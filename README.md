@@ -53,7 +53,7 @@ pip install -r requirements.txt
 We are not deploying yet.
 
 ```
-gunicorn -w 1 main:app
+gunicorn main:app
 ```
 
 You should see:
